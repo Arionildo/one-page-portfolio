@@ -97,12 +97,11 @@ export default {
   border-bottom: 2px solid #6BB3D3;
 }
 
-
-
 .btn-outline-primary {
   --bs-btn-padding-x: 1.3rem;
   --bs-btn-padding-y: 1.3rem;
-  color: #6BB3D3;
+  color: #ffffff;
+  background-color: #6BB3D3;
   border: none;
   border-radius: initial;
 }
